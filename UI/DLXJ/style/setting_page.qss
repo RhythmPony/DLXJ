@@ -1,0 +1,49 @@
+#Form{
+    border:none;
+    border-radius:8px;
+    background-color:#F2F2F2;
+}
+QPushButton{
+    border:none;
+    border-radius:4px;
+    background-color:#F2F2F2;
+}
+QPushButton:hover{
+    border:none;
+    border-radius:4px;
+    background-color:#EDEAE3;
+}
+QPushButton:checked{
+    border:none;
+    border-radius:4px;
+    background-color:#D3C1B3;
+    color:white;
+}
+QToolButton{
+    border:none;
+    border-radius:4px;
+    background-color:#F2F2F2;
+}
+QToolButton:hover{
+    border:none;
+    border-radius:4px;
+    background-color:#EDEAE3;
+}
+QStackedWidget{
+    border:none;
+    border-radius:8px;
+    background-color:#F2F2F2;
+}
+#lbl_log_path{
+    text-decoration:underline;
+}
+#lbl_last_opened_directory{
+    text-decoration:underline;
+}
+QComboBox{
+    border:1px solid #666666;
+    background-color:#F2F2F2;
+}
+QLineEdit{
+    background-color:#F2F2F2;
+}

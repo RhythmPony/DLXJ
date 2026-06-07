@@ -1,0 +1,21 @@
+#frm_auth_page{
+	border:none;
+	border-image: url(:/assets/background_image/auth_page_background_image.jpg);
+}
+#wgt_main{
+	border:none;
+	border-radius:8px;
+	background-color:#66FFFFFF;
+}
+QLineEdit{
+	border:none;
+	border-radius:4px;
+}
+QPushButton{
+	border:none;
+	border-radius:4px;
+	background-color:#AAFFFFFF;
+}
+QPushButton:hover{
+	background-color:#FFFFFF;
+}

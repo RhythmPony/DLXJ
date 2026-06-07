@@ -1,0 +1,6 @@
+#MainWindow{
+    background-color:white;
+}
+#toolBar{
+    background-color:white;
+}

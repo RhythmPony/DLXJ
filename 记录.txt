@@ -1,0 +1,41 @@
+找不到模块Cryptodome
+pip install pycryptodomex
+spec文件隐藏导入
+        "Cryptodome",
+        "Cryptodome.Cipher.AES",
+        "Cryptodome.Random",
+        "wmi",
+        "WMI",
+
+使用pyinstaller打包必须把使用到的自定义脚本导入到主程序
+
+使用python setup.py build_ext --inplace
+
+使用cythonize编译的pluginbase不能使用with形式
+with plugin_source:
+    from yourapplication.plugins import my_plugin
+my_plugin.do_something_cool()
+而是应该使用load_plugin形式
+my_plugin = plugin_source.load_plugin('my_plugin')
+
+QSS设置背景透明度
+background-color: #BBBBBBBB;
+十六进制前2位是透明度
+
+QWidget通过QSS设置背景图片
+设置之后不能显示，需要重写paintEvent(QPaintEvent* event);
+
+void Widget::paintEvent(QPaintEvent *event)
+{
+    Q_UNUSED(event);
+    QStyleOption o;
+    o.initFrom(this);
+    QPainter p(this);
+    style()->drawPrimitive(QStyle::PE_Widget, &o, &p, this);
+    QWidget::paintEvent(event);
+}
+或者使用QFrame代替QWidget
+
+阻止信号发送使用blockSignals(bool)
+子窗口必须设置windowFlag为Qt.Window才能设置最大化
+必须设置父窗口才能设置模态

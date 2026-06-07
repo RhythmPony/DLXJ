@@ -1,0 +1,9 @@
+.git
+.idea
+__pycache__
+databases/
+dist/
+docx/
+Pipfile
+*.lock
+build*

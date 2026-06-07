@@ -1,0 +1,140 @@
+2022/11/08 17:13:21  [WARNING]>>>  setData(self, int, Any): argument 1 has unexpected type 'str'
+2022/11/08 17:13:26  [WARNING]>>>  setData(self, int, Any): argument 1 has unexpected type 'str'
+2022/11/08 17:16:33  [WARNING]>>>  setData(self, int, Any): argument 1 has unexpected type 'str'
+2022/11/08 17:16:35  [WARNING]>>>  setData(self, int, Any): argument 1 has unexpected type 'str'
+2022/11/08 17:16:49  [WARNING]>>>  setData(self, int, Any): argument 1 has unexpected type 'str'
+2022/11/12 21:01:59  [ERROR]>>>  [Errno 2] No such file or directory: 'e:\\personal_program\\python_program\\dlxj_re\\'
+2022/11/13 11:50:07  [WARNING]>>>  [Errno 2] No such file or directory: 'LICENSE'--checkAuth.get_sys_info
+2022/11/13 12:28:54  [WARNING]>>>  [Errno 2] No such file or directory: 'LICENSE'--checkAuth.get_sys_info
+2022/11/13 14:48:52  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:49:21  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:49:21  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:49:21  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:49:29  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:49:29  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:49:31  [WARNING]>>>  data(self, int, int): argument 2 has unexpected type 'TreeItemType'
+2022/11/13 14:50:55  [WARNING]>>>  toolTip(self, int): not enough arguments
+2022/11/13 14:50:55  [WARNING]>>>  toolTip(self, int): not enough arguments
+2022/11/13 14:50:56  [WARNING]>>>  toolTip(self, int): not enough arguments
+2022/11/13 14:53:23  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:55:19  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:55:19  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:55:45  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:55:46  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:56:33  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:57:12  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:57:29  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 14:57:31  [WARNING]>>>  text(self, int): not enough arguments
+2022/11/13 15:14:41  [WARNING]>>>  'QWidget' object has no attribute 'data'
+2022/11/13 15:20:59  [WARNING]>>>  'NoneType' object has no attribute 'text'
+2022/11/13 15:36:48  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:09:17  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:10:08  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:10:22  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:11:47  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:12:43  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:13:02  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:13:55  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:14:13  [WARNING]>>>  child(self, int): too many arguments
+2022/11/13 16:17:37  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 16:18:09  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 16:25:38  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:25:40  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:26:25  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:27:43  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:27:43  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:28:04  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:29:01  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:29:51  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:30:32  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 16:30:32  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:37:46  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:39:58  [WARNING]>>>  indexFromItem(self, QTreeWidgetItem, column: int = 0): argument 1 has unexpected type 'bool'
+2022/11/13 21:40:54  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:41:33  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:42:03  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:42:58  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:43:33  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:43:34  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 21:45:13  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:45:43  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:46:29  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:49:19  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:50:04  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:50:24  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:51:08  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:51:48  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:52:20  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 21:52:32  [WARNING]>>>  'NoneType' object has no attribute 'data'
+2022/11/13 22:36:47  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 22:36:48  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/13 22:39:44  [WARNING]>>>  'NoneType' object has no attribute 'type'
+2022/11/14 09:56:33  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:56:35  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:56:37  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:56:42  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:56:50  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:57:15  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:57:29  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:57:32  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:57:38  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 09:57:43  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:01:50  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:03:34  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:03:46  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:03:52  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:04:03  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:05:06  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:05:17  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:06:23  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:06:33  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:09:08  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:09:46  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:09:56  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:10:01  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:10:07  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:22:57  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:23:06  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:23:15  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:23:21  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:23:29  [WARNING]>>>  'UiMainWindow' object has no attribute 'grc_view'
+2022/11/14 10:23:43  [WARNING]>>>  
+2022/11/14 15:16:40  [WARNING]>>>  string index out of range
+2022/11/14 15:17:10  [WARNING]>>>  string index out of range
+2022/11/15 09:44:05  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:45:58  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:46:27  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:47:24  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:49:37  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:49:52  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:50:42  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:51:42  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:52:02  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/15 09:52:59  [WARNING]>>>  No option 'test' in section: 'sys'--mySettingPage.SettingPage.get_options
+2022/11/16 16:33:27  [WARNING]>>>  [Errno 2] No such file or directory: 'LICENSE'--checkAuth.get_sys_info
+2022/11/16 16:53:14  [WARNING]>>>  [Errno 2] No such file or directory: 'LICENSE'--checkAuth.get_sys_info
+2022/11/16 17:03:13  [WARNING]>>>  [Errno 2] No such file or directory: 'LICENSE'--checkAuth.get_sys_info
+2022/11/17 10:18:47  [WARNING]>>>  arguments did not match any overloaded call:
+  QDate(): too many arguments
+  QDate(int, int, int): argument 1 has unexpected type 'str'
+  QDate(int, int, int, QCalendar): argument 1 has unexpected type 'str'
+  QDate(QDate): argument 1 has unexpected type 'str'--myMainWindow.MainWindow.set_date_placeholder
+2022/11/17 10:19:17  [WARNING]>>>  arguments did not match any overloaded call:
+  QDate(): too many arguments
+  QDate(int, int, int): argument 1 has unexpected type 'str'
+  QDate(int, int, int, QCalendar): argument 1 has unexpected type 'str'
+  QDate(QDate): argument 1 has unexpected type 'str'--myMainWindow.MainWindow.set_date_placeholder
+2022/11/17 10:19:38  [WARNING]>>>  arguments did not match any overloaded call:
+  QDate(): too many arguments
+  QDate(int, int, int): argument 1 has unexpected type 'str'
+  QDate(int, int, int, QCalendar): argument 1 has unexpected type 'str'
+  QDate(QDate): argument 1 has unexpected type 'str'--myMainWindow.MainWindow.set_date_placeholder
+2022/11/17 10:20:21  [WARNING]>>>  arguments did not match any overloaded call:
+  QDate(): too many arguments
+  QDate(int, int, int): argument 1 has unexpected type 'str'
+  QDate(int, int, int, QCalendar): argument 1 has unexpected type 'str'
+  QDate(QDate): argument 1 has unexpected type 'str'--myMainWindow.MainWindow.set_date_placeholder
+2022/11/17 10:39:06  [WARNING]>>>  'QGroupBox' object has no attribute 'clear'--myMainWindow.MainWindow.init_operate_pad
+2022/11/17 10:44:46  [WARNING]>>>  'QGroupBox' object has no attribute 'items'--myMainWindow.MainWindow.init_operate_pad
+2022/11/17 10:59:31  [WARNING]>>>  'QGroupBox' object has no attribute 'takeChild'--myMainWindow.MainWindow.init_operate_pad
+2022/11/17 11:18:35  [WARNING]>>>  'QVBoxLayout' object has no attribute 'items'--myMainWindow.MainWindow.init_operate_pad
